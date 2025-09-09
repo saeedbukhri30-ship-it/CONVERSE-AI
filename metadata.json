@@ -1,5 +1,7 @@
 {
-  "name": "CONSERVE AI",
+  "name": "Copy of CONSERVE AI",
   "description": "A powerful conversational AI application for Q&A, drafting, coding, and creative tasks. Experience fast, secure, and pleasant interactions with conversation history and prompt templates.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }

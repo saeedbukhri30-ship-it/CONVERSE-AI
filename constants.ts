@@ -22,4 +22,9 @@ export const PROMPT_TEMPLATES: PromptTemplate[] = [
     prompt: 'Find the bug in this Python code and explain how to fix it:\n\ndef factorial(n):\n  if n == 0:\n    return 1\n  else:\n    return n * factorial(n+1)',
     category: 'Coding',
   },
+  {
+    title: 'Start a conversation',
+    prompt: 'Tell me an interesting fact to start our conversation.',
+    category: 'Conversation',
+  },
 ];
